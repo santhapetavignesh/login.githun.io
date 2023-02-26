@@ -1,0 +1,48 @@
+.son, a[target]{
+	text-align:center;
+	color:white;
+	text-decoration:none;
+}
+.child1{
+	background-color:white;
+	float:left;
+	height:100%;
+	width:35%;
+}
+.child2{
+	background-color:#011f68;
+	float:left;
+	height:100%;
+	width:30%;
+	border-radius:50%;
+}
+.child3{
+	background-color:white;
+	float:left;
+	height:100%;
+	width:35%;
+}
+.bodyindex{background-color:yellow;
+	margin:auto;
+	}
+
+.divone{
+	background-color: orange;
+	height:25%;
+	
+}
+.divtwo{
+	background-color: white;
+	height:50%;
+}
+.divthree{
+	background-color: green;
+	height:25%;
+}
+
+.balu{
+	background-image:url("./forgotimage2.jfif");
+	background-repeat:no-repeat;
+	
+}
+
